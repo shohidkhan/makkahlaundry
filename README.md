@@ -29,5 +29,4 @@ php artisan optimize:clear
 ```sh
 php artisan serve
 ```
-
-For Admin Login `http://www.makkhalaundryservicemlsheram.com/` <br>
+Main site link `http://www.makkhalaundryservicemlsheram.com/` <br>
