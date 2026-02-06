@@ -11,6 +11,17 @@
 <link rel="stylesheet" href="{{ asset('frontend') }}/assets/css/style.css">
 <link rel="stylesheet" href="{{ asset('frontend') }}/assets/css/whatsapp.css">
 <style>
+    html, body {
+        overflow-x: hidden !important;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .th-hero-wrapper,
+    .footer-wrapper {
+        overflow: hidden;
+    }
+
     .th-header.header-layout1 .menu-area {
         background-color: #ffffff;
         box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
